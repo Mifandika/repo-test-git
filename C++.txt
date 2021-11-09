@@ -1,2 +1,2 @@
-c++ : C With Class 
-bejarne stourtup
+C++ : C add class
+create by : bjarne stourtup
