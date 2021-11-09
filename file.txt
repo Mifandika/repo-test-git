@@ -1,3 +1,5 @@
 nama : maulana ifandika
 kelas: X TKj A
 sekolah : SMK TKM Purworejo
+jurusan : Teknik Komputer dan jaringan
+umur    : 15 th
