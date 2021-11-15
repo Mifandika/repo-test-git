@@ -1,2 +1,0 @@
-C++ : C add class
-create by : bjarne stourtup
